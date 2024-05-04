@@ -245,7 +245,7 @@ def script_description():
             <p>Decreases the bitrate of the stream as audio levels increase!!</p>
 
             <p>By satalight (:</p>
-            <p>Check <a href="https://github.com/satasatalight">the repo</a> for more information.</p>"""
+            <p>Check <a href="https://github.com/satasatalight/obs-shitrate">the repo</a> for more information.</p>"""
 
 
 
