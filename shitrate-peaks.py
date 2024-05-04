@@ -208,11 +208,11 @@ def on_event(event):
 G = SimpleNamespace()
 
 G.sources               = []
-G.bitrate_tick          = 400        # PENWY : interval between each bitrate change
+G.bitrate_tick          = 400       # PENWY : interval between each bitrate change
 G.callback              = update_bitrate
 G.maxDifference         = 20
 G.maxBitrate            = 5000      # in kbps
-G.minBitrate            = 100       # in kbps
+G.minBitrate            = 10        # in kbps
 G.dampening             = 1
 G.lock                  = False
 G.noises                = [-999]    # volume (default at 999)
