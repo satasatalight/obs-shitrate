@@ -2,7 +2,7 @@
 
 [**Releases**](https://github.com/satasatalight/obs-shitrate/releases "Releases")
 
-### Requirements:
+### Requirements
 
 - [OBS Studio](https://obsproject.com/ "OBS Studio")
 - [Python 3.6](https://www.python.org/downloads/release/python-368/ "Python 3.6")
@@ -34,3 +34,7 @@ Whichever one you choose is based on personal preference and the effect you are 
 [![OBS' general guide for where sound levels should be placed in the audio mixer.](https://obsproject.com/media/pages/kb/audio-mixer-guide/635d30015f-1644751140/ecyfthu-1.png "OBS' general guide for where sound levels should be placed in the audio mixer.")](https://obsproject.com/kb/audio-mixer-guide "OBS' general guide for where sound levels should be placed in the audio mixer.")
 
 - Have fun 🙂
+
+### Thanks !!
+
+To the [**OBS Community Discord**](https://discord.gg/obsproject "**OBS Community Discord**") especially @/penwywern for their help. This code was largely based on upgradeQ's [*Access source dB volume level*](https://github.com/upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API/blob/master/src/volmeter_via_ffi.py "*Access source dB volume level*") example in their [OBS Studio Python Scripting Cheatsheet](https://github.com/upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API "*OBS Studio Python Scripting Cheatsheet*")
